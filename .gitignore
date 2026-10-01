@@ -1,0 +1,15 @@
+# Local agent/tooling config — not part of the project
+.commandcode/
+
+# macOS
+.DS_Store
+._*
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Editors
+.vscode/
+.idea/
